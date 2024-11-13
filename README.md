@@ -1,4 +1,4 @@
-👋 ¡Hola! Somos el ** Club de Algoritmia de CUvalles**. En este repositorio compartimos nuestros proyectos, soluciones a problemas algorítmicos y recursos para el aprendizaje de la programación y las ciencias computacionales.
+👋 ¡Hola! Somos el **Club de Algoritmia de CUvalles**. En este repositorio compartimos nuestros proyectos, soluciones a problemas algorítmicos y recursos para el aprendizaje de la programación y las ciencias computacionales.
 
 ## 👀 Nos interesa:
 - Resolver problemas algorítmicos y participar en competencias de programación.
